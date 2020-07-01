@@ -52,3 +52,11 @@ def kaster(a, **kargs):
 
 
 kaster(1, b=2, c=3, d=4)
+
+print("-----------------")
+
+# Collections
+# deque 지원
+# OrderedDict 데이터 입력 순서대로 dict 반환
+# defaultdict 초기키값 없을때 사용
+# Counter element 개수를 dict 형태로 반환
